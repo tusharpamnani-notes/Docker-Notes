@@ -23,7 +23,7 @@
 
 ### 2. Application Architecture
 
-![pplication Architecture](./application%20architecture.jpeg)
+![pplication Architecture](https://github.com/tusharpamnani-notes/Docker-Notes/blob/main/assets/application%20architecture.jpeg)
 
 
 ### 3. Mentality: Pets vs. Cattle
