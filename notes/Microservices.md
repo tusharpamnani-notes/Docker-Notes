@@ -27,7 +27,7 @@
   - Break the application/system into smaller units.
   - Use the strangler pattern for gradual migration.
 
-  ![Strangler Approach](strangler.png)
+  ![Strangler Approach](https://github.com/tusharpamnani-notes/Docker-Notes/blob/main/assets/application%20architecture.jpeg)
 
 ## Microservices - Benefits
 
